@@ -1,0 +1,26 @@
+<annotation>
+	<folder>XUV 400</folder>
+	<filename>th_Mahindra-XUV-400.jpg</filename>
+	<path>C:\Users\yashr\OneDrive\Desktop\MAJOR PROJECT\ML\XUV 400\th_Mahindra-XUV-400.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>301</width>
+		<height>167</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>XUV 400</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>31</xmin>
+			<ymin>8</ymin>
+			<xmax>282</xmax>
+			<ymax>137</ymax>
+		</bndbox>
+	</object>
+</annotation>

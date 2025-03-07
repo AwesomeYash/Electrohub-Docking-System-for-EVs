@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Tata Nexon</folder>
+	<filename>0053_th_Colors-6-desk.jpg</filename>
+	<path>C:\Users\yashr\OneDrive\Desktop\MAJOR PROJECT\ML\Tata Nexon\0053_th_Colors-6-desk.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>383</width>
+		<height>131</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Tata Nexon</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>25</xmin>
+			<ymin>9</ymin>
+			<xmax>265</xmax>
+			<ymax>115</ymax>
+		</bndbox>
+	</object>
+</annotation>

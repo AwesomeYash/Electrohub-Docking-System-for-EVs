@@ -1,0 +1,38 @@
+<annotation>
+	<folder>Hyundai Ioniq</folder>
+	<filename>th_1673517694.jpg</filename>
+	<path>C:\Users\yashr\OneDrive\Desktop\MAJOR PROJECT\New folder\Hyundai Ioniq\th_1673517694.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>299</width>
+		<height>169</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Honda Ioniq</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>23</xmin>
+			<ymin>25</ymin>
+			<xmax>170</xmax>
+			<ymax>147</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Honda Ioniq</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>175</xmin>
+			<ymin>31</ymin>
+			<xmax>283</xmax>
+			<ymax>124</ymax>
+		</bndbox>
+	</object>
+</annotation>

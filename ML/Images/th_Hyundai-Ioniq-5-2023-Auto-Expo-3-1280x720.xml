@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Hyundai Ioniq</folder>
+	<filename>th_Hyundai-Ioniq-5-2023-Auto-Expo-3-1280x720.jpg</filename>
+	<path>C:\Users\yashr\OneDrive\Desktop\MAJOR PROJECT\New folder\Hyundai Ioniq\th_Hyundai-Ioniq-5-2023-Auto-Expo-3-1280x720.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>300</width>
+		<height>168</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Honda Ioniq</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>30</xmin>
+			<ymin>39</ymin>
+			<xmax>269</xmax>
+			<ymax>140</ymax>
+		</bndbox>
+	</object>
+</annotation>

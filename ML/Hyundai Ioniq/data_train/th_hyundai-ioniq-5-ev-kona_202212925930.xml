@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Hyundai Ioniq</folder>
+	<filename>th_hyundai-ioniq-5-ev-kona_202212925930.jpg</filename>
+	<path>C:\Users\yashr\OneDrive\Desktop\MAJOR PROJECT\New folder\Hyundai Ioniq\th_hyundai-ioniq-5-ev-kona_202212925930.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>259</width>
+		<height>194</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Honda Ioniq</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>27</ymin>
+			<xmax>258</xmax>
+			<ymax>177</ymax>
+		</bndbox>
+	</object>
+</annotation>

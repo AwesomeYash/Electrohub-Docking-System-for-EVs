@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Tata Nano</folder>
+	<filename>2100288d1609384002-jayem-neo-tata-nano-ev-launched-nov-28-2017-0b6dcd5ac8f2433d9a02665f992e14ff.jpeg</filename>
+	<path>C:\Users\yashr\OneDrive\Desktop\MAJOR PROJECT\ML\Tata Nano\2100288d1609384002-jayem-neo-tata-nano-ev-launched-nov-28-2017-0b6dcd5ac8f2433d9a02665f992e14ff.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>828</width>
+		<height>833</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Nano</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>2</ymin>
+			<xmax>782</xmax>
+			<ymax>821</ymax>
+		</bndbox>
+	</object>
+</annotation>

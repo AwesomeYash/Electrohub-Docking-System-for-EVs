@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Hyundai Ioniq</folder>
+	<filename>th_Hyundai-Motor-India-to-launch-Ioniq-5-in-India-in-2022-Motown-India-Bureau-2-2175.jpg</filename>
+	<path>C:\Users\yashr\OneDrive\Desktop\MAJOR PROJECT\New folder\Hyundai Ioniq\th_Hyundai-Motor-India-to-launch-Ioniq-5-in-India-in-2022-Motown-India-Bureau-2-2175.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>298</width>
+		<height>169</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Honda Ioniq</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>6</xmin>
+			<ymin>52</ymin>
+			<xmax>291</xmax>
+			<ymax>161</ymax>
+		</bndbox>
+	</object>
+</annotation>

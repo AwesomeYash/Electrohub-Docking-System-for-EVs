@@ -1,0 +1,38 @@
+<annotation>
+	<folder>Tata Nano</folder>
+	<filename>Tata-Nano-Electric-car-price-range-features.webp</filename>
+	<path>C:\Users\yashr\OneDrive\Desktop\MAJOR PROJECT\ML\Tata Nano\Tata-Nano-Electric-car-price-range-features.webp</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>853</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Nano</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>101</xmin>
+			<ymin>522</ymin>
+			<xmax>524</xmax>
+			<ymax>806</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Nano</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>19</xmin>
+			<ymin>37</ymin>
+			<xmax>615</xmax>
+			<ymax>409</ymax>
+		</bndbox>
+	</object>
+</annotation>

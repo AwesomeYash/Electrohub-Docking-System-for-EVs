@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Tata Nexon</folder>
+	<filename>0096_th_20230912031722__Nexon EV Facelift Web Resized _ Watermarked .jpg</filename>
+	<path>C:\Users\yashr\OneDrive\Desktop\MAJOR PROJECT\ML\Tata Nexon\0096_th_20230912031722__Nexon EV Facelift Web Resized _ Watermarked .jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>276</width>
+		<height>183</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Tata Nexon</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>48</xmin>
+			<ymin>54</ymin>
+			<xmax>221</xmax>
+			<ymax>158</ymax>
+		</bndbox>
+	</object>
+</annotation>

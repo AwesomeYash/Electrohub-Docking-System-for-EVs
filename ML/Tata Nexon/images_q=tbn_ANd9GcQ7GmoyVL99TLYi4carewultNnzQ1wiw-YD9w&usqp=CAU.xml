@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Tata Nexon</folder>
+	<filename>images_q=tbn_ANd9GcQ7GmoyVL99TLYi4carewultNnzQ1wiw-YD9w&amp;usqp=CAU.jpg</filename>
+	<path>C:\Users\yashr\OneDrive\Desktop\MAJOR PROJECT\ML\Tata Nexon\images_q=tbn_ANd9GcQ7GmoyVL99TLYi4carewultNnzQ1wiw-YD9w&amp;usqp=CAU.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>278</width>
+		<height>181</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Tata Nexon</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>14</xmin>
+			<ymin>35</ymin>
+			<xmax>198</xmax>
+			<ymax>156</ymax>
+		</bndbox>
+	</object>
+</annotation>

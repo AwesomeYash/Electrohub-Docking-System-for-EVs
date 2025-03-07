@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Tata Nano</folder>
+	<filename>Tata-Nano-left-rear-three-quarter-21097.webp</filename>
+	<path>C:\Users\yashr\OneDrive\Desktop\MAJOR PROJECT\ML\Tata Nano\Tata-Nano-left-rear-three-quarter-21097.webp</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>592</width>
+		<height>370</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Nano</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>63</xmin>
+			<ymin>114</ymin>
+			<xmax>455</xmax>
+			<ymax>341</ymax>
+		</bndbox>
+	</object>
+</annotation>

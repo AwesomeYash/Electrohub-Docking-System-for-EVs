@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Tata Tiago</folder>
+	<filename>th_13_01_2023-tata_tiago_ev_blitz_23294141.jpg</filename>
+	<path>C:\Users\yashr\OneDrive\Desktop\MAJOR PROJECT\ML\Tata Tiago\th_13_01_2023-tata_tiago_ev_blitz_23294141.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>300</width>
+		<height>168</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Tiago</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>122</xmin>
+			<ymin>33</ymin>
+			<xmax>298</xmax>
+			<ymax>154</ymax>
+		</bndbox>
+	</object>
+</annotation>

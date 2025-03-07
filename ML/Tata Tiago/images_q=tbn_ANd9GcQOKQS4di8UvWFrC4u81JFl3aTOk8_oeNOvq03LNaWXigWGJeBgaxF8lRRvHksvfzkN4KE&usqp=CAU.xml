@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Tata Tiago</folder>
+	<filename>images_q=tbn_ANd9GcQOKQS4di8UvWFrC4u81JFl3aTOk8_oeNOvq03LNaWXigWGJeBgaxF8lRRvHksvfzkN4KE&amp;usqp=CAU.jpg</filename>
+	<path>C:\Users\yashr\OneDrive\Desktop\MAJOR PROJECT\ML\Tata Tiago\images_q=tbn_ANd9GcQOKQS4di8UvWFrC4u81JFl3aTOk8_oeNOvq03LNaWXigWGJeBgaxF8lRRvHksvfzkN4KE&amp;usqp=CAU.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>168</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Tiago</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>6</xmin>
+			<ymin>7</ymin>
+			<xmax>154</xmax>
+			<ymax>93</ymax>
+		</bndbox>
+	</object>
+</annotation>

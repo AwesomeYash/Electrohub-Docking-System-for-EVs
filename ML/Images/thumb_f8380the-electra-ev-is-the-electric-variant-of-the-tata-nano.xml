@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Tata Nano</folder>
+	<filename>thumb_f8380the-electra-ev-is-the-electric-variant-of-the-tata-nano.jpg</filename>
+	<path>C:\Users\yashr\OneDrive\Desktop\MAJOR PROJECT\ML\Tata Nano\thumb_f8380the-electra-ev-is-the-electric-variant-of-the-tata-nano.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1120</width>
+		<height>616</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Nano</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>127</xmin>
+			<ymin>25</ymin>
+			<xmax>980</xmax>
+			<ymax>587</ymax>
+		</bndbox>
+	</object>
+</annotation>

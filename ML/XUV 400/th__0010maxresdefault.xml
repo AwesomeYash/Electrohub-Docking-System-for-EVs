@@ -1,0 +1,26 @@
+<annotation>
+	<folder>XUV 400</folder>
+	<filename>th__0010maxresdefault.jpg</filename>
+	<path>C:\Users\yashr\OneDrive\Desktop\MAJOR PROJECT\ML\XUV 400\th__0010maxresdefault.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>300</width>
+		<height>168</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>XUV 400</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>47</xmin>
+			<ymin>52</ymin>
+			<xmax>239</xmax>
+			<ymax>168</ymax>
+		</bndbox>
+	</object>
+</annotation>

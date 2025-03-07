@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Tata Nexon</folder>
+	<filename>th_tata_motors_slashes_nexon_ev_tiago_ev_prices_by_rs_120_lakh_carandbike_1_d88edf4ddf.jpg</filename>
+	<path>C:\Users\yashr\OneDrive\Desktop\MAJOR PROJECT\ML\Tata Nexon\th_tata_motors_slashes_nexon_ev_tiago_ev_prices_by_rs_120_lakh_carandbike_1_d88edf4ddf.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>290</width>
+		<height>174</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Tata Nexon</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>5</xmin>
+			<ymin>47</ymin>
+			<xmax>135</xmax>
+			<ymax>136</ymax>
+		</bndbox>
+	</object>
+</annotation>

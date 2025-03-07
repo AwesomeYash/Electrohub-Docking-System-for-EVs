@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Tata Nano</folder>
+	<filename>2388400d1670602059-rumour-tata-nano-could-return-electric-avatar-smartselect_20221209213411_instagram.jpg</filename>
+	<path>C:\Users\yashr\OneDrive\Desktop\MAJOR PROJECT\ML\Tata Nano\2388400d1670602059-rumour-tata-nano-could-return-electric-avatar-smartselect_20221209213411_instagram.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1069</width>
+		<height>1077</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Nano</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>241</xmin>
+			<ymin>426</ymin>
+			<xmax>1020</xmax>
+			<ymax>993</ymax>
+		</bndbox>
+	</object>
+</annotation>

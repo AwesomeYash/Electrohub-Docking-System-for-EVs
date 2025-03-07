@@ -1,0 +1,38 @@
+<annotation>
+	<folder>Tata Nexon</folder>
+	<filename>0044_th_Tata_Nexon_EV_Nexon_EV_Max_1652413505212_1652413505317.jpg</filename>
+	<path>C:\Users\yashr\OneDrive\Desktop\MAJOR PROJECT\ML\Tata Nexon\0044_th_Tata_Nexon_EV_Nexon_EV_Max_1652413505212_1652413505317.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>299</width>
+		<height>168</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Tata Nexon</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>111</xmin>
+			<ymin>78</ymin>
+			<xmax>274</xmax>
+			<ymax>161</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Tata Nexon</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>21</xmin>
+			<ymin>11</ymin>
+			<xmax>164</xmax>
+			<ymax>92</ymax>
+		</bndbox>
+	</object>
+</annotation>

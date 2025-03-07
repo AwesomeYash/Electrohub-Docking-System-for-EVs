@@ -1,0 +1,38 @@
+<annotation>
+	<folder>Tata Tiago</folder>
+	<filename>th_67062Tata-Tiago-EV-Vs-Petrol-AMT.jpg</filename>
+	<path>C:\Users\yashr\OneDrive\Desktop\MAJOR PROJECT\ML\Tata Tiago\th_67062Tata-Tiago-EV-Vs-Petrol-AMT.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>284</width>
+		<height>177</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Tiago</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>144</xmin>
+			<ymin>39</ymin>
+			<xmax>280</xmax>
+			<ymax>123</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Tiago</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>5</xmin>
+			<ymin>36</ymin>
+			<xmax>136</xmax>
+			<ymax>124</ymax>
+		</bndbox>
+	</object>
+</annotation>

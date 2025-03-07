@@ -1,0 +1,26 @@
+<annotation>
+	<folder>XUV 400</folder>
+	<filename>th_mahindra-xuv400-ev-launched-at-rs-15-99-lakh-the-xuv400-has-v0-619gng7uelca1.jpg</filename>
+	<path>C:\Users\yashr\OneDrive\Desktop\MAJOR PROJECT\ML\XUV 400\th_mahindra-xuv400-ev-launched-at-rs-15-99-lakh-the-xuv400-has-v0-619gng7uelca1.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>225</width>
+		<height>225</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>XUV 400</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>22</xmin>
+			<ymin>87</ymin>
+			<xmax>203</xmax>
+			<ymax>201</ymax>
+		</bndbox>
+	</object>
+</annotation>

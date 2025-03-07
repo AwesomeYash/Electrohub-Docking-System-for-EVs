@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Hyundai Ioniq</folder>
+	<filename>th_greater-noida-uttar-pradesh-india-11th-jan-2023-hyundai-ioniq-5-electric-car-unveiled-at-the-auto-expo-2023-in-greater-noida-credit-image-kabir-jhang_0016.jpg</filename>
+	<path>C:\Users\yashr\OneDrive\Desktop\MAJOR PROJECT\New folder\Hyundai Ioniq\th_greater-noida-uttar-pradesh-india-11th-jan-2023-hyundai-ioniq-5-electric-car-unveiled-at-the-auto-expo-2023-in-greater-noida-credit-image-kabir-jhang_0016.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>262</width>
+		<height>192</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Honda Ioniq</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>27</xmin>
+			<ymin>45</ymin>
+			<xmax>230</xmax>
+			<ymax>148</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Tata Nano</folder>
+	<filename>भारत-में-टाटा-नैनो-इलेक्ट्रिक-कार-की-लॉंच-दिनांक-Tata-Nano-Electric-Car-Launch-Date-in-India.png</filename>
+	<path>C:\Users\yashr\OneDrive\Desktop\MAJOR PROJECT\ML\Tata Nano\भारत-में-टाटा-नैनो-इलेक्ट्रिक-कार-की-लॉंच-दिनांक-Tata-Nano-Electric-Car-Launch-Date-in-India.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>420</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Nano</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>351</xmin>
+			<ymin>34</ymin>
+			<xmax>772</xmax>
+			<ymax>377</ymax>
+		</bndbox>
+	</object>
+</annotation>

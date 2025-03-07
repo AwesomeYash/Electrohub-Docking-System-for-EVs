@@ -1,0 +1,38 @@
+<annotation>
+	<folder>XUV 400</folder>
+	<filename>th_2023-Mahindra-XUV-400-vs-Tata-Nexon-EV-Max-88-900x506.jpg</filename>
+	<path>C:\Users\yashr\OneDrive\Desktop\MAJOR PROJECT\ML\XUV 400\th_2023-Mahindra-XUV-400-vs-Tata-Nexon-EV-Max-88-900x506.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>300</width>
+		<height>168</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>XUV 400</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>27</xmin>
+			<ymin>62</ymin>
+			<xmax>164</xmax>
+			<ymax>134</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>XUV 400</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>162</xmin>
+			<ymin>68</ymin>
+			<xmax>266</xmax>
+			<ymax>126</ymax>
+		</bndbox>
+	</object>
+</annotation>

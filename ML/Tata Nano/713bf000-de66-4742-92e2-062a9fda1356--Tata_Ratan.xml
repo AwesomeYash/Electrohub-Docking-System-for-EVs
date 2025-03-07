@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Tata Nano</folder>
+	<filename>713bf000-de66-4742-92e2-062a9fda1356--Tata_Ratan.webp</filename>
+	<path>C:\Users\yashr\OneDrive\Desktop\MAJOR PROJECT\ML\Tata Nano\713bf000-de66-4742-92e2-062a9fda1356--Tata_Ratan.webp</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>750</width>
+		<height>394</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Nano</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>252</xmin>
+			<ymin>62</ymin>
+			<xmax>645</xmax>
+			<ymax>384</ymax>
+		</bndbox>
+	</object>
+</annotation>
